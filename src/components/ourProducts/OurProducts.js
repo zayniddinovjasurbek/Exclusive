@@ -1,14 +1,13 @@
-import { useState } from 'react'
+import { useState, UseE } from 'react'
 import ProductsData from './OurProductsData'
 import './ourProducts.css'
 
 
 
- 
 
 const OurProducts = () => {
     return (
-        <section className='ourProducts'>
+     <section className='ourProducts'>
       <div className="ourProducts-navbar">
         <div className="top">
             <div></div>
